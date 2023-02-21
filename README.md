@@ -12,6 +12,8 @@
     -   [Variables](#variables)
 -   [PCA](#pca)
     -   [The 7 principal components](#the-7-principal-components)
+-   [Clustering](#clustering)
+-   [Conclusion](#conclusion)
 
 # Introduction
 
