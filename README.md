@@ -78,10 +78,6 @@ Several algorithms of clustering were used, like:
   <img width="600px" src="https://user-images.githubusercontent.com/121397357/220468422-8ec68e41-93e7-4007-8dba-d82a13766d0c.png" />
 </p>
 
-<p align="center">
-  <img width="800px" src="https://user-images.githubusercontent.com/121397357/220476185-fb21d689-1c15-426d-b3d3-9214f5d7135c.png" />
-</p>
-
 <div align="center">
   <table>
     <thead>
