@@ -66,11 +66,11 @@ RC7 | Virtue
 # Clustering
 
 Several algorithms of clustering were used, like:
-- Hierarchical Clustering
-- K-Means Clustering
-- PAM
-- Clustering of variables
-- etc
+- Hierarchical Clustering;
+- K-Means Clustering;
+- PAM;
+- Clustering of variables;
+- etc.
 
 ### Best result was algorithm K-Means with 2 clusters
 
@@ -80,21 +80,17 @@ Several algorithms of clustering were used, like:
 
 <div align="center">
   <table>
-    <thead>
-      <tr> 
-        <td> Cluster 1 </td>
-        <td> Cluster 2 </td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr> 
-        <td> Individual Worker </td>
-        <td> Team Player </td>
-      </tr>
-    </tbody>
+    <tr> 
+      <td> Cluster 1 </td>
+      <td> Cluster 2 </td>
+    </tr>
+    <tr> 
+      <td> Individual Worker </td>
+      <td> Team Player </td>
+    </tr>
   </table>
 </div>
 
 # Conclusion
 
-With the definition of two clusters (two types of personality) it's possible to achieve the main objective of helping the Human Resources department in the selection of the candidate who's more suited to the vacancy.
+It's possible to achieve the main objective of helping the Human Resources department in the selection of the candidate who's more suited to the vacancy.
