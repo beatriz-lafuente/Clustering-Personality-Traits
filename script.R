@@ -301,7 +301,7 @@ pc20 <- principal(dataZ, nfactors=20, rotate="none", scores=TRUE)
 
 # Kaiser criterion & scree plot - Find the number of components.
 
-# Eigenvalues - Variance of principle components
+# Eigenvalues - Variance of principal components
 round(pc20$values, 3) # Kaiser
 
 plot(pc20$values, type = "b", main = "Scree plot para Quest?es A (1-20)", 
@@ -374,7 +374,7 @@ plot(df$Livre_Arbitrio, df$Ingenuidade, pch = 20, xlab="PC4 (Livre_Arbitrio)",
 # Create data frame that contains only principal component scores
 df_scores <- df[,45:51]
 
-# Scatter plot of principle components
+# Scatter plot of principal components
 pairs(df_scores, pch=20, lower.panel = NULL)
 
 ####### Hierarchical Clustering #######
