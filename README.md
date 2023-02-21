@@ -72,7 +72,7 @@ Several algorithms of clustering were used, like:
 - Clustering of variables;
 - etc.
 
-### Best result was algorithm K-Means with 2 clusters
+## Best result was algorithm K-Means with 2 clusters
 
 <p align="center">
   <img width="600px" src="https://user-images.githubusercontent.com/121397357/220468422-8ec68e41-93e7-4007-8dba-d82a13766d0c.png" />
